@@ -5,6 +5,6 @@
    #  gitflow
    #  gitignore
    #  version conrol
-   #  pull reqquests
+   #  pull requests
    #  make a github professional
  ##########################################
